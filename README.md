@@ -1,10 +1,10 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Recent updates
+* Added Notes and CIE papers for 6th sem courses of AIML branch [Go here](#6th-sem-courses)
 * Added MM CIE-3 paper and MQP for 2022 batch [Go here](#institutional-electives)
 * Added MM CIE-2 paper for 2022 batch [Go here](#institutional-electives)
 * Added 2023 batch's CIE papers for ANNDL, DBMS, MLOps, POME, and CIE-1 papers of BDT, NLP, Gen AI, EIPR, MM [5th sem CIE papers](#5th-sem-courses) [6th sem CIE papers](#6th-sem-courses)
 * Added MM cie-1 qp [Go here](#institutional-electives)
-* Added notes for SE,CD, NPS, CNS [Go here for SE, CD](#core-courses-1) [Go here for NPS](#only-for-cs) [Go here for CNS](#only-for-cs-1)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
@@ -17,6 +17,7 @@
 |7|Boru Harshavardhan Reddy|-|[🔗](https://www.linkedin.com/in/bharshavardhanreddy/)|
 |8|Himashree P|-|[🔗](https://www.linkedin.com/in/p-himashree-perumalla-348920286/)|
 |9|Varun B|[🔗](https://github.com/ibesuperv)|-|
+|10|Aniket R T|[🔗](https://github.com/Tannic-Chalice)|-|
 # You can contribute
 ## What can you contribute?
 - Any notes and question papers related to __third year courses__(Not limited to AIML and CS-allied branches) of the 2022 scheme of RVCE can be contributed.
