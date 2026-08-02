@@ -1,10 +1,10 @@
 # 3rd-year-resources-2022-scheme-rvce
 # Recent updates
+* Added SEE papers for 6th sem courses of AIML branch [Go here](#6th-sem-courses)
 * Added Notes and CIE papers for 6th sem courses of AIML branch [Go here](#6th-sem-courses)
 * Added MM CIE-3 paper and MQP for 2022 batch [Go here](#institutional-electives)
 * Added MM CIE-2 paper for 2022 batch [Go here](#institutional-electives)
 * Added 2023 batch's CIE papers for ANNDL, DBMS, MLOps, POME, and CIE-1 papers of BDT, NLP, Gen AI, EIPR, MM [5th sem CIE papers](#5th-sem-courses) [6th sem CIE papers](#6th-sem-courses)
-* Added MM cie-1 qp [Go here](#institutional-electives)
 # Contributors
 |**Sl no.**|**Name**|**Github**|**Linkedin**|
 |-|-|:-:|:-:|
